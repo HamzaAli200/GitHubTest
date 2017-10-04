@@ -1,1 +1,4 @@
-# GitHubTest
+GitHubTest
+==========
+
+GitHubTest is a repository for showing the bare minimums of github and how to maneuver, fuction, etc.
